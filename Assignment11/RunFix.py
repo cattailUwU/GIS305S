@@ -7,6 +7,6 @@ if __name__ == "__main__":
         "https://foo_bar.com",       # fixed URL
         r"C:\Users",                # raw-string for Windows path
         "GSheets",
-        r"C:\Users\my.gdb"          # full path to your geodatabase
+        r"C:\Users\paint\Documents\ArcGIS\Projects\BodelMuilder\BodelMuilder.gdb"          # full path to your geodatabase
     )
     etl_instance.process()
