@@ -10,4 +10,4 @@ logging.basicConfig(level = logging.DEBUG,
 logging.debug('This is a debug statement')
 logging.info('This will get logged to a file')
 logging.warning('This is a warning')
-logging.ERROR('You will die (this is an error)')
+logging.error('You will die (this is an error)')
